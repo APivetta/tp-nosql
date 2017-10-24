@@ -1,0 +1,147 @@
+135|STRDS5101.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+135|STRDS5101.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+135|STRDS5101.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+135|STRDS5101.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+417|STRVW5313.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|2
+417|STRVW5313.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|2
+867|STRWS5105.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+867|STRWS5105.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+867|STRWS5105.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+867|STRWS5105.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+1014|BG6RS2202.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|0|AuthenticAMD|3
+1208|STRWS5106.odd.svc.company.com|||-1|4||
+1208|STRWS5106.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|4
+1208|STRWS5106.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|4
+1208|STRWS5106.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|4
+1208|STRWS5106.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|4
+1256|BG6RS2201.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|0|AuthenticAMD|3
+1332|STRVW5312.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|2
+1332|STRVW5312.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|2
+1406|BG6RS2101.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|1|AuthenticAMD|3
+1622|BG6RS1202.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|1|AuthenticAMD|3
+1646|BG6RS2102.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|1|AuthenticAMD|3
+1858|STRDS5102.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+1858|STRDS5102.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+1858|STRDS5102.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+1858|STRDS5102.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+1861|STRWS5103.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+1861|STRWS5103.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+1861|STRWS5103.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+1861|STRWS5103.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+2404|STRVA5915.odd.svc.company.com|CPU1|Six-Core AMD Opteron(tm) Processor 8431|2400|2|AuthenticAMD|5
+2404|STRVA5915.odd.svc.company.com|CPU0|Six-Core AMD Opteron(tm) Processor 8431|2400|2|AuthenticAMD|5
+2407|STRVD5202.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+2407|STRVD5202.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+2407|STRVD5202.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+2407|STRVD5202.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+2523|STRWS5104.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+2523|STRWS5104.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+2523|STRWS5104.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+2523|STRWS5104.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+2550|STRVA5916.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|2
+2550|STRVA5916.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|2
+2699|STRVW6124.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6174|2300|2|AuthenticAMD|6
+2699|STRVW6124.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6174|2300|2|AuthenticAMD|6
+3175|STRVW6123.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6174|2300|2|AuthenticAMD|6
+3175|STRVW6123.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6174|2300|2|AuthenticAMD|6
+3185|VRTVW4171.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6176 SE|2300|0|AuthenticAMD|3
+3185|VRTVW4171.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6176 SE|2300|0|AuthenticAMD|3
+3185|VRTVW4171.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6176 SE|2300|0|AuthenticAMD|3
+3185|VRTVW4171.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6176 SE|2300|0|AuthenticAMD|3
+3488|VRTVW1654.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6174|2200|2|AuthenticAMD|6
+3488|VRTVW1654.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6174|2200|2|AuthenticAMD|6
+3837|VRTVA1492.odd.svc.company.com|CPU1|AMD Opteron(TM) Processor 6276|2800|2|AuthenticAMD|7
+3837|VRTVA1492.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6174|2300|2|AuthenticAMD|6
+3837|VRTVA1492.odd.svc.company.com|CPU0|AMD Opteron(TM) Processor 6276|2800|2|AuthenticAMD|7
+3837|VRTVA1492.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6174|2300|2|AuthenticAMD|6
+4090|STRDS6104.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4090|STRDS6104.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4090|STRDS6104.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4090|STRDS6104.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4228|VRTVA4282.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+4228|VRTVA4282.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+4228|VRTVA4282.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+4228|VRTVA4282.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+4332|STRVA6137.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|2|AuthenticAMD|3
+4332|STRVA6137.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|2|AuthenticAMD|3
+4338|STRWS6106.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|3
+4338|STRWS6106.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|3
+4338|STRWS6106.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|3
+4338|STRWS6106.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2200|4|AuthenticAMD|3
+4389|POFDS3734.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4389|POFDS3734.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4389|POFDS3734.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4389|POFDS3734.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|1
+4766|VRTVW1658.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6174|2200|2|AuthenticAMD|6
+4766|VRTVW1658.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6174|2200|2|AuthenticAMD|6
+4784|STRWS6107.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4784|STRWS6107.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4784|STRWS6107.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4784|STRWS6107.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4957|BG6RS1102.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|1|AuthenticAMD|3
+4961|STRWS6105.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4961|STRWS6105.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4961|STRWS6105.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4961|STRWS6105.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+4968|STRDS6105.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|2|AuthenticAMD|1
+4968|STRDS6105.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|2|AuthenticAMD|1
+5037|VRTVW4170.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+5037|VRTVW4170.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+5037|VRTVW4170.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+5037|VRTVW4170.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+5190|BG6RS1201.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|1|AuthenticAMD|3
+5233|VRTVA4166.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6134|2300|8|AuthenticAMD|2
+5233|VRTVA4166.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6134|2300|8|AuthenticAMD|2
+5233|VRTVA4166.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6134|2300|8|AuthenticAMD|2
+5233|VRTVA4166.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6134|2300|8|AuthenticAMD|2
+5370|STRWS6108.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+5370|STRWS6108.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+5370|STRWS6108.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+5370|STRWS6108.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|4|AuthenticAMD|3
+5585|VRTVA1461.odd.svc.company.com|CPU2|Six-Core AMD Opteron(tm) Processor 8439 SE|2800|4|AuthenticAMD|8
+5585|VRTVA1461.odd.svc.company.com|CPU0|Six-Core AMD Opteron(tm) Processor 8439 SE|2800|4|AuthenticAMD|8
+5585|VRTVA1461.odd.svc.company.com|CPU1|Six-Core AMD Opteron(tm) Processor 8439 SE|2800|4|AuthenticAMD|8
+5585|VRTVA1461.odd.svc.company.com|CPU3|Six-Core AMD Opteron(tm) Processor 8439 SE|2800|4|AuthenticAMD|8
+5615|BG6RS1101.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|1|AuthenticAMD|3
+5701|STRVA6138.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|3
+5701|STRVA6138.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6134|2300|2|AuthenticAMD|3
+5827|STRVD6117.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|3
+5827|STRVD6117.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|3
+5827|STRVD6117.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|3
+5827|STRVD6117.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176|2300|4|AuthenticAMD|3
+7452|VRTVD4953.odd.svc.company.com|CPU4|AMD Opteron(TM) Processor 6220|2300|8|AuthenticAMD|9
+7452|VRTVD4953.odd.svc.company.com|CPU7|AMD Opteron(TM) Processor 6220|2300|8|AuthenticAMD|9
+7452|VRTVD4953.odd.svc.company.com|CPU5|AMD Opteron(TM) Processor 6220|2300|8|AuthenticAMD|9
+7452|VRTVD4953.odd.svc.company.com|CPU6|AMD Opteron(TM) Processor 6220|2300|8|AuthenticAMD|9
+7467|VRTVD5022.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6278|2400|8|AuthenticAMD|10
+7467|VRTVD5022.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6278|2400|8|AuthenticAMD|10
+7467|VRTVD5022.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6278|2400|8|AuthenticAMD|10
+7467|VRTVD5022.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6278|2400|8|AuthenticAMD|10
+7474|VRTVW5028.odd.svc.company.com|CPU7|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7474|VRTVW5028.odd.svc.company.com|CPU5|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7474|VRTVW5028.odd.svc.company.com|CPU6|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7474|VRTVW5028.odd.svc.company.com|CPU4|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7515|VRTVW5048.odd.svc.company.com|CPU4|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7515|VRTVW5048.odd.svc.company.com|CPU6|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7515|VRTVW5048.odd.svc.company.com|CPU5|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7515|VRTVW5048.odd.svc.company.com|CPU7|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+7596|VRTVA4963.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6176|2200|8|AuthenticAMD|1
+7596|VRTVA4963.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6176|2200|8|AuthenticAMD|1
+7596|VRTVA4963.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6176|2200|8|AuthenticAMD|1
+7596|VRTVA4963.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6176|2200|8|AuthenticAMD|1
+7605|VRTVD5072.odd.svc.company.com|CPU5|AMD Opteron(tm) Processor 6376|2300|8|AuthenticAMD|11
+7605|VRTVD5072.odd.svc.company.com|CPU7|AMD Opteron(tm) Processor 6376|2300|8|AuthenticAMD|11
+7605|VRTVD5072.odd.svc.company.com|CPU4|AMD Opteron(tm) Processor 6376|2300|8|AuthenticAMD|11
+7605|VRTVD5072.odd.svc.company.com|CPU6|AMD Opteron(tm) Processor 6376|2300|8|AuthenticAMD|11
+8022|VRTVA4991.odd.svc.company.com|CPU0|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+8022|VRTVA4991.odd.svc.company.com|CPU2|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+8022|VRTVA4991.odd.svc.company.com|CPU1|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+8022|VRTVA4991.odd.svc.company.com|CPU3|AMD Opteron(tm) Processor 6176 SE|2300|8|AuthenticAMD|3
+10299|VRTVA5636.odd.svc.company.com|CPU2|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU5|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU6|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU0|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU1|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU3|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU7|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7
+10299|VRTVA5636.odd.svc.company.com|CPU4|AMD Opteron(TM) Processor 6276|2300|8|AuthenticAMD|7

@@ -1,0 +1,2 @@
+MATCH(db:Database {id: 135}) MATCH(app:Application {id: 77}) CREATE (db)-[:manages_data_for]->(app) WITH count(db) as a
+RETURN a

@@ -1,0 +1,5 @@
+CREATE (:Storage {id:1, name:"S1"})
+CREATE (:Storage {id:2, name:"S2"})
+CREATE (:Storage {id:3, name:"S3"})
+CREATE (:Storage {id:4, name:"S4"})
+CREATE (:Storage {id:5, name:"S5"})

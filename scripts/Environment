@@ -1,0 +1,2 @@
+CREATE (:Environment {id:1, name:"Production"})
+CREATE (:Environment {id:2, name:"Staging"})

@@ -1,0 +1,176 @@
+72|CTCVW5303.odd.svc.company.com|DELL PERC H710 SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|139384|1
+72|CTCVW5303.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|20496|2
+289|VRTVA2474.odd.svc.company.com|AVOCENT vmDisk USB Device|PHYSICALDRIVE2||\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|NULL|3
+289|VRTVA2474.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|102398|4
+366|VRTVW2370.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE57|Fixed hard disk media|\\.\PHYSICALDRIVE57|\\.\PHYSICALDRIVE57|81917|5
+366|VRTVW2370.odd.svc.company.com|DELL PERC 5/i SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|571131|6
+417|STRVW5313.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|81917|7
+417|STRVW5313.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|1024|8
+522|VRTVA0556.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|10236|9
+522|VRTVA0556.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|51199|10
+584|CTCVW5302.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|11
+584|CTCVW5302.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|131069|12
+730|BG6DS2114.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|53246|13
+768|VRTVW0552.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|5114|14
+768|VRTVW0552.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE5|Fixed hard disk media|\\.\PHYSICALDRIVE5|\\.\PHYSICALDRIVE5|102398|15
+792|BG6VW1351.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|102398|16
+792|BG6VW1351.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|1024|17
+1014|BG6RS2202.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|153598|18
+1014|BG6RS2202.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|1024|19
+1332|STRVW5312.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|7161|20
+1332|STRVW5312.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|645118|21
+1332|STRVW5312.odd.svc.company.com|DELL PERC 5/i SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|69374|22
+1332|STRVW5312.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|23
+1332|STRVW5312.odd.svc.company.com|HP LOGICAL VOLUME SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|1430721|24
+1406|BG6RS2101.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|25
+1406|BG6RS2101.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|61436|26
+1589|VRTVW0550.odd.svc.company.com|Dell Virtual  Floppy USB Device|PHYSICALDRIVE2||\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|NULL|27
+1589|VRTVW0550.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|28
+1644|CTCVD6812.odd.svc.company.com|XENSRC PVDISK SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|29
+1644|CTCVD6812.odd.svc.company.com|HP P2000 G3 FC  Multi-Path Disk Device|PHYSICALDRIVE6|Fixed hard disk media|\\.\PHYSICALDRIVE6|\\.\PHYSICALDRIVE6|95362|30
+1644|CTCVD6812.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE5|Fixed hard disk media|\\.\PHYSICALDRIVE5|\\.\PHYSICALDRIVE5|1080316|31
+1644|CTCVD6812.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|127994|32
+1644|CTCVD6812.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|52289|33
+1646|BG6RS2102.odd.svc.company.com|RHEL DISK SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|34
+1646|BG6RS2102.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|61436|35
+1858|STRDS5102.odd.svc.company.com|Dell Virtual  Floppy USB Device|PHYSICALDRIVE1||\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|NULL|36
+1858|STRDS5102.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|10236|37
+1861|STRWS5103.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|38
+1861|STRWS5103.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|20473|39
+1861|STRWS5103.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE5|Fixed hard disk media|\\.\PHYSICALDRIVE5|\\.\PHYSICALDRIVE5|58361|40
+1861|STRWS5103.odd.svc.company.com|WDC WD800JD-60LSA5|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|76316|41
+1861|STRWS5103.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|204797|42
+2407|STRVD5202.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|40954|43
+2407|STRVD5202.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|61436|44
+2523|STRWS5104.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE20|Fixed hard disk media|\\.\PHYSICALDRIVE20|\\.\PHYSICALDRIVE20|135164|45
+2595|BG6VD1323.odd.svc.company.com|HP LOGICAL VOLUME SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|572136|46
+2595|BG6VD1323.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|5114|47
+2595|BG6VD1323.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|81917|48
+2595|BG6VD1323.odd.svc.company.com|FALCON IPSTOR DISK  Multi-Path Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|470607|49
+2595|BG6VD1323.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|204797|50
+2699|STRVW6124.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE7|Fixed hard disk media|\\.\PHYSICALDRIVE7|\\.\PHYSICALDRIVE7|1019|51
+2699|STRVW6124.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|52
+2699|STRVW6124.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|1019|53
+2699|STRVW6124.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE22|Fixed hard disk media|\\.\PHYSICALDRIVE22|\\.\PHYSICALDRIVE22|278878|54
+2699|STRVW6124.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|81917|55
+2699|STRVW6124.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|56
+3175|STRVW6123.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|57
+3175|STRVW6123.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|40954|58
+3175|STRVW6123.odd.svc.company.com|DGC RAID 5  Multi-Path Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|220156|59
+3175|STRVW6123.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE38|Fixed hard disk media|\\.\PHYSICALDRIVE38|\\.\PHYSICALDRIVE38|1019|60
+3185|VRTVW4171.odd.svc.company.com|DELL PERC H710 SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|139384|61
+3185|VRTVW4171.odd.svc.company.com|Virtual HD|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|19994|62
+3437|VRTVW1660.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|102398|63
+3437|VRTVW1660.odd.svc.company.com|DELL PERC 5/i Adapter SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|418168|64
+3437|VRTVW1660.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|65
+3463|VRTVW4280.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|66
+3463|VRTVW4280.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|67
+3469|VRTVA1834.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|30718|68
+3469|VRTVA1834.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|102398|69
+3488|VRTVW1654.odd.svc.company.com|Virtual HD ATA Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|127994|70
+3488|VRTVW1654.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|225278|71
+3657|BG6VW1065.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|10236|72
+3657|BG6VW1065.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|168957|73
+3837|VRTVA1492.odd.svc.company.com|iDRAC Virtual Floppy USB Device|PHYSICALDRIVE2||\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|NULL|74
+3837|VRTVA1492.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|81917|75
+3900|CTCDS3729.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|81917|76
+3900|CTCDS3729.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|102398|77
+4111|BG6VW1053.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|40954|78
+4111|BG6VW1053.odd.svc.company.com|FALCON IPSTOR DISK  Multi-Path Disk Device|PHYSICALDRIVE16|Fixed hard disk media|\\.\PHYSICALDRIVE16|\\.\PHYSICALDRIVE16|17429|79
+4228|VRTVA4282.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|10236|80
+4246|CTCVD5705.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE10|Fixed hard disk media|\\.\PHYSICALDRIVE10|\\.\PHYSICALDRIVE10|122879|81
+4296|VRTVW1456.odd.svc.company.com|FALCON IPSTOR DISK  Multi-Path Disk Device|PHYSICALDRIVE5|Fixed hard disk media|\\.\PHYSICALDRIVE5|\\.\PHYSICALDRIVE5|1048562|82
+4296|VRTVW1456.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|83
+4338|STRWS6106.odd.svc.company.com|Dell Virtual  Floppy USB Device|PHYSICALDRIVE2||\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|NULL|84
+4338|STRWS6106.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|10236|85
+4389|POFDS3734.odd.svc.company.com|FALCON IPSTOR DISK  Multi-Path Disk Device|PHYSICALDRIVE9|Fixed hard disk media|\\.\PHYSICALDRIVE9|\\.\PHYSICALDRIVE9|470607|86
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|40954|87
+4389|POFDS3734.odd.svc.company.com|DELL PERC H700 SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|139384|88
+4389|POFDS3734.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE6|Fixed hard disk media|\\.\PHYSICALDRIVE6|\\.\PHYSICALDRIVE6|614399|89
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|378876|90
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|1024|91
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|26623|92
+4389|POFDS3734.odd.svc.company.com|DELL PERC H700 SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|557560|93
+4389|POFDS3734.odd.svc.company.com|RHEL DISK SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|102398|94
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|81917|95
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|10236|96
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|10236|97
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|33785|98
+4389|POFDS3734.odd.svc.company.com|DELL PERC 6/i SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|2829024|99
+4389|POFDS3734.odd.svc.company.com|HP LOGICAL VOLUME SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|69973|100
+4389|POFDS3734.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE58|Fixed hard disk media|\\.\PHYSICALDRIVE58|\\.\PHYSICALDRIVE58|5|101
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|102
+4389|POFDS3734.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|102398|103
+4478|VRTVW1672.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|102398|104
+4478|VRTVW1672.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|204797|105
+4521|VRTVD2448.odd.svc.company.com|iDRAC LCDRIVE USB Device|PHYSICALDRIVE1||\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|NULL|106
+4521|VRTVD2448.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|51199|107
+4521|VRTVD2448.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|108
+4677|VRTVW4167.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|20473|109
+4766|VRTVW1658.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE25|Fixed hard disk media|\\.\PHYSICALDRIVE25|\\.\PHYSICALDRIVE25|307196|110
+4766|VRTVW1658.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|102398|111
+4784|STRWS6107.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|15359|112
+4784|STRWS6107.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|122879|113
+4788|CTCVW6302.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE40|Fixed hard disk media|\\.\PHYSICALDRIVE40|\\.\PHYSICALDRIVE40|102398|114
+4788|CTCVW6302.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|115
+4803|CTCVW6531.odd.svc.company.com|DELL PERC H700 SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|418168|116
+4803|CTCVW6531.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|88059|117
+4886|VRTVA1460.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|118
+4886|VRTVA1460.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|119
+4998|VRTVA1494.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|30718|120
+4998|VRTVA1494.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE5|Fixed hard disk media|\\.\PHYSICALDRIVE5|\\.\PHYSICALDRIVE5|53246|121
+5037|VRTVW4170.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|81917|122
+5037|VRTVW4170.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|20473|123
+5190|BG6RS1201.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|30718|124
+5233|VRTVA4166.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|125
+5290|VRTVA1468.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|126
+5290|VRTVA1468.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|127
+5290|VRTVA1468.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE25|Fixed hard disk media|\\.\PHYSICALDRIVE25|\\.\PHYSICALDRIVE25|65530|128
+5290|VRTVA1468.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE23|Fixed hard disk media|\\.\PHYSICALDRIVE23|\\.\PHYSICALDRIVE23|2|129
+5290|VRTVA1468.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|40954|130
+5370|STRWS6108.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|34851|131
+5370|STRWS6108.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|61436|132
+5370|STRWS6108.odd.svc.company.com|FALCON IPSTOR DISK  Multi-Path Disk Device|PHYSICALDRIVE5|Fixed hard disk media|\\.\PHYSICALDRIVE5|\\.\PHYSICALDRIVE5|470607|133
+5370|STRWS6108.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|134
+5399|BG6DS1114.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|71672|135
+5399|BG6DS1114.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|153598|136
+5585|VRTVA1461.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE20|Fixed hard disk media|\\.\PHYSICALDRIVE20|\\.\PHYSICALDRIVE20|278878|137
+5585|VRTVA1461.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|138
+5585|VRTVA1461.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|139
+5585|VRTVA1461.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|1024|140
+5585|VRTVA1461.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|20473|141
+5642|VRTVW1458.odd.svc.company.com|ST3250318AS ATA Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|238417|142
+5642|VRTVW1458.odd.svc.company.com|EMC SYMMETRIX SCSI Disk Device|PHYSICALDRIVE11|Fixed hard disk media|\\.\PHYSICALDRIVE11|\\.\PHYSICALDRIVE11|2|143
+5701|STRVA6138.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE9|Fixed hard disk media|\\.\PHYSICALDRIVE9|\\.\PHYSICALDRIVE9|61436|144
+5701|STRVA6138.odd.svc.company.com|DELL PERC H710 SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|139384|145
+5731|VRTVD3940.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|102398|146
+5731|VRTVD3940.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|51199|147
+5731|VRTVD3940.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|1887433|148
+5731|VRTVD3940.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|149
+5731|VRTVD3940.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|30718|150
+5827|STRVD6117.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|40954|151
+5827|STRVD6117.odd.svc.company.com|PowerDevice by PowerPath|PHYSICALDRIVE27|Fixed hard disk media|\\.\PHYSICALDRIVE27|\\.\PHYSICALDRIVE27|307196|152
+5940|CTCVD6705.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|40954|153
+5940|CTCVD6705.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|154
+5988|CTCVW6303.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|25595|155
+5988|CTCVW6303.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|51199|156
+6135|BG6VD1014.odd.svc.company.com|FALCON IPSTOR DISK  Multi-Path Disk Device|PHYSICALDRIVE6|Fixed hard disk media|\\.\PHYSICALDRIVE6|\\.\PHYSICALDRIVE6|278878|157
+6135|BG6VD1014.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE4|Fixed hard disk media|\\.\PHYSICALDRIVE4|\\.\PHYSICALDRIVE4|6142|158
+6135|BG6VD1014.odd.svc.company.com|EMC SYMMETRIX SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|2|159
+6147|CTCVW6511.odd.svc.company.com|HP P2000 G3 FC SCSI Disk Device|PHYSICALDRIVE27|Fixed hard disk media|\\.\PHYSICALDRIVE27|\\.\PHYSICALDRIVE27|47677|160
+6147|CTCVW6511.odd.svc.company.com|HP MSA2012fc SCSI Disk Device|PHYSICALDRIVE49|Fixed hard disk media|\\.\PHYSICALDRIVE49|\\.\PHYSICALDRIVE49|196003|161
+6194|CTCVW6575.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|162
+6194|CTCVW6575.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|40954|163
+7467|VRTVD5022.odd.svc.company.com|HP MSA2012fc  Multi-Path Disk Device|PHYSICALDRIVE7|Fixed hard disk media|\\.\PHYSICALDRIVE7|\\.\PHYSICALDRIVE7|954102|164
+7467|VRTVD5022.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|81917|165
+7467|VRTVD5022.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|20473|166
+7467|VRTVD5022.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE1|Fixed hard disk media|\\.\PHYSICALDRIVE1|\\.\PHYSICALDRIVE1|81917|167
+7467|VRTVD5022.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|1024|168
+7596|VRTVA4963.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|169
+7596|VRTVA4963.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|40954|170
+7632|VRTVA4962.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|51199|171
+7632|VRTVA4962.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE0|Fixed hard disk media|\\.\PHYSICALDRIVE0|\\.\PHYSICALDRIVE0|61436|172
+7632|VRTVA4962.odd.svc.company.com|FALCON IPSTOR DISK SCSI Disk Device|PHYSICALDRIVE65|Fixed hard disk media|\\.\PHYSICALDRIVE65|\\.\PHYSICALDRIVE65|156665|173
+7632|VRTVA4962.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE2|Fixed hard disk media|\\.\PHYSICALDRIVE2|\\.\PHYSICALDRIVE2|30718|174
+7634|VRTVA4989.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE3|Fixed hard disk media|\\.\PHYSICALDRIVE3|\\.\PHYSICALDRIVE3|3067|175
+7634|VRTVA4989.odd.svc.company.com|VMware Virtual disk SCSI Disk Device|PHYSICALDRIVE8|Fixed hard disk media|\\.\PHYSICALDRIVE8|\\.\PHYSICALDRIVE8|34812|176

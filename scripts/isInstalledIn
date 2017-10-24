@@ -1,0 +1,2 @@
+MATCH (instance:Instance {instanceNm: "MSSQLSERVER"}) MATCH(app:Application {id: 77}) CREATE (app)-[:is_installed_in]->(instance) WITH count(instance) as a
+RETURN a

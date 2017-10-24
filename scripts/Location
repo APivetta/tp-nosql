@@ -1,0 +1,4 @@
+CREATE (:Location {id:1, name:"NA"})
+CREATE (:Location {id:2, name:"LA"})
+CREATE (:Location {id:3, name:"EU"})
+CREATE (:Location {id:4, name:"CN"})

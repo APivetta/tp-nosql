@@ -1,0 +1,126 @@
+72|CTCVW5303|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW5303|192.23.28.27, 192.23.28.26, 192.23.251.65|svc.company.com|AMRSHARED
+135|STRDS5101|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRDS5101|192.67.42.22, 192.168.202.22|svc.company.com|AMRSHARED2
+289|VRTVA2474|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA2474|192.23.129.54, 192.23.253.61|svc.company.com|AMRSHARED
+366|VRTVW2370|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW2370|192.23.165.26, 192.23.165.25, 192.23.253.41|svc.company.com|AMRSHARED
+417|STRVW5313|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVW5313|192.67.46.47, 192.67.46.41|svc.company.com|AMRSHARED2
+522|VRTVA0556|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA0556|192.23.129.48, fe80::f959:ef03:31be:3bdb, 192.23.251.243, fe80::d01f:eedb:74a7:453a|svc.company.com|AMRSHARED
+584|CTCVW5302|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW5302|192.23.28.14, 192.23.28.13, 192.23.250.209|svc.company.com|AMRSHARED
+603|CTCVA5303|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVA5303|192.23.18.51, 192.23.18.50, 192.23.18.49, 192.23.251.64|svc.company.com|AMRSHARED
+673|BG6VW1353|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VW1353|192.214.100.9, 192.214.100.8, fe80::49fb:681d:3df0:bfbf, 2404:3d00:40a:c51::9, 2404:3d00:40a:c51::8|svc.company.com|INDSHARED
+730|BG6DS2114|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6DS2114|192.200.108.19, fe80::44db:4960:52b7:3a5b, 2404:3d00:40a:3d1::19|svc.company.com|INDSHARED
+768|VRTVW0552|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW0552|192.23.162.197, 192.23.162.196, fe80::4119:887b:a6b9:a4ff, 192.23.251.240, fe80::382a:44d4:36f8:d06|svc.company.com|AMRSHARED
+782|BG6DS1210|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6DS1210|192.200.124.46, fe80::b569:59fb:b1b1:b31f, 192.200.99.5, fe80::d93f:9553:f519:9b01, 2404:3d00:40a:2d1::5|svc.company.com|INDSHARED
+792|BG6VW1351|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VW1351|192.214.100.7, 192.214.100.6, fe80::6c41:cde7:fb18:d4ed, 2404:3d00:40a:c51::7, 2404:3d00:40a:c51::6|svc.company.com|INDSHARED
+867|STRWS5105|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS5105|192.67.39.132, 192.67.39.32, 192.168.200.32|svc.company.com|AMRSHARED2
+960|BG6DS2214|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6DS2214|169.254.174.157, fe80::9dd6:4525:4d44:ae9d, 192.200.107.49, fe80::9068:e984:ae9d:7a6f, 2404:3d00:40a:4d1::49|svc.company.com|INDSHARED
+1011|VRTVA0554|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA0554|192.23.129.47, fe80::54bc:d3e2:5a48:db1b, 192.23.251.242, fe80::c9bc:c0cc:e878:4076|svc.company.com|AMRSHARED
+1014|BG6RS2202|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS2202||svc.company.com|INDSHARED
+1169|CTCVD5302|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD5302|192.23.18.41, 192.23.250.208|svc.company.com|AMRSHARED
+1208|STRWS5106|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS5106|192.168.200.33, 192.67.39.133, 192.67.39.33|svc.company.com|AMRSHARED2
+1256|BG6RS2201|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS2201||svc.company.com|INDSHARED
+1296|VRTVD1704|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD1704|192.23.49.132, 192.23.252.135|svc.company.com|AMRSHARED
+1332|STRVW5312|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVW5312|192.67.46.46, 192.67.46.40|svc.company.com|AMRSHARED2
+1341|CTCVD5812|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD5812|192.23.145.146, fe80::b5a2:e105:3fd7:ba1|svc.company.com|AMRSHARED
+1406|BG6RS2101|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS2101|192.200.1192.11, 192.200.1192.15, 192.200.1192.25|svc.company.com|INDSHARED
+1589|VRTVW0550|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW0550|192.23.162.195, 192.23.162.194, fe80::b8e0:ff52:381c:7a6f, 169.254.5.88, 192.23.251.240, fe80::b5c6:b788:5853:558|svc.company.com|AMRSHARED
+1622|BG6RS1202|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS1202|192.200.102.34, 192.200.102.46, 192.200.124.131|svc.company.com|INDSHARED
+1644|CTCVD6812|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD6812|192.23.49.12, 192.23.253.242|svc.company.com|AMRSHARED
+1646|BG6RS2102|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS2102|192.200.1192.12, 192.200.1192.16, 192.200.1192.26, 169.254.247.213|svc.company.com|INDSHARED
+1798|VRTVA4165|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4165|192.200.125.157, fe80::41d7:6604:fe2e:463f, 192.200.98.240, fe80::8de2:f7f:fe39:13, 2404:3d00:40a:292::240|svc.company.com|INDSHARED
+1858|STRDS5102|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRDS5102|192.67.42.21, 192.168.202.21|svc.company.com|AMRSHARED2
+1861|STRWS5103|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS5103|192.168.200.30, 192.67.39.130, 192.67.39.110, 192.67.39.109, 192.67.39.30|svc.company.com|AMRSHARED2
+1994|CTCVD5811|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD5811|192.23.145.145, fe80::3491:1bb8:98e0:e0b2|svc.company.com|AMRSHARED
+2206|VRTVA4283|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4283|192.200.106.112, fe80::add9:bf64:768:f252, 2404:3d00:40a:492::112|svc.company.com|INDSHARED
+2242|VRTVD2374|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD2374|192.23.145.222, 192.23.253.40|svc.company.com|AMRSHARED
+2299|VRTVD3954|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD3954|192.200.106.19, fe80::9cd0:e858:90ec:5ee3, 2404:3d00:40a:492::19|svc.company.com|INDSHARED
+2361|BG6VA1310|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VA1310|192.200.106.34, 192.200.106.33, 192.200.106.32, fe80::dc93:5bbc:c8f9:8415, 2404:3d00:40a:492::34, 2404:3d00:40a:492::33, 2404:3d00:40a:492::32|svc.company.com|INDSHARED
+2404|STRVA5915|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVA5915|192.67.49.70, 192.67.49.67|svc.company.com|AMRSHARED2
+2407|STRVD5202|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVD5202|192.67.49.69|svc.company.com|AMRSHARED2
+2423|VRTVD3969|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD3969|192.200.108.213, fe80::8444:27ad:b86c:6299, 2404:3d00:40a:3d1::213|svc.company.com|INDSHARED
+2512|BG6VA1309|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC||BG6VA1309|192.200.106.30, 192.200.106.29, 192.200.106.27, fe80::45d4:f5f6:316b:86b2, 2404:3d00:40a:492::30, 2404:3d00:40a:492::29, 2404:3d00:40a:492::27|svc.company.com|INDSHARED
+2513|BG6VA1309|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VA1309|192.200.106.30, 192.200.106.29, 192.200.106.27, fe80::45d4:f5f6:316b:86b2, 2404:3d00:40a:492::30, 2404:3d00:40a:492::29, 2404:3d00:40a:492::27|svc.company.com|INDSHARED
+2515|CTCVA5302|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVA5302|192.23.18.40, 192.23.18.39, 192.23.18.38, 192.23.250.207|svc.company.com|AMRSHARED
+2523|STRWS5104|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS5104|192.168.200.31, 192.67.39.131, 192.67.39.112, 192.67.39.111, 192.67.39.31|svc.company.com|AMRSHARED2
+2550|STRVA5916|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVA5916|192.67.49.71, 192.67.49.68|svc.company.com|AMRSHARED2
+2595|BG6VD1323|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VD1323|192.200.106.28, fe80::f57e:3f11:396c:8f42, 2404:3d00:40a:492::28|svc.company.com|INDSHARED
+2699|STRVW6124|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVW6124|192.168.92.27, 192.67.34.45, 192.67.34.44|svc.company.com|AMRSHARED2
+2995|VRTVW1674|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1674|192.23.24.180, 192.23.24.108, 192.23.24.107, 192.23.252.130|svc.company.com|AMRSHARED
+3018|CTCVA6303|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVA6303|192.23.17.94, 192.23.17.93, 192.23.17.92, 192.23.251.66|svc.company.com|AMRSHARED
+3175|STRVW6123|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVW6123|192.168.92.28, 192.67.34.43, 192.67.34.42|svc.company.com|AMRSHARED2
+3185|VRTVW4171|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1||||INDSHARED
+3194|VRTVA2292|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA2292|192.23.49.156, 192.23.253.29|svc.company.com|AMRSHARED
+3339|BG6VA1018|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VA1018|192.200.124.116, fe80::ed21:2892:b0a6:24e4, 192.200.98.123, 192.200.98.122, 192.200.98.121, fe80::f88e:3768:c11:d4a8, 2404:3d00:40a:292::123, 2404:3d00:40a:292::122, 2404:3d00:40a:292::121|svc.company.com|INDSHARED
+3401|VRTVD1832|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD1832|192.23.49.146, 192.23.252.216|svc.company.com|AMRSHARED
+3437|VRTVW1660|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1660|192.23.24.109, 192.23.24.100, 192.23.24.99, 192.23.252.119|svc.company.com|AMRSHARED
+3463|VRTVW4280|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW4280|192.200.125.192, fe80::90a1:809a:5da7:b9e7, 192.214.96.88, 192.214.96.87, fe80::3966:f694:1c17:6228, 2404:3d00:40a:b51::88, 2404:3d00:40a:b51::87|svc.company.com|INDSHARED
+3469|VRTVA1834|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1834|192.23.49.147, 192.23.252.225|svc.company.com|AMRSHARED
+3488|VRTVW1654|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1654|192.213.7.51, fe80::84e8:ecc9:391f:409c, 192.213.160.26, 192.213.160.25, fe80::c82a:c6ce:8c1a:5e18|svc.company.com|APASHARED
+3568|CTCVA6302|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVA6302|192.23.17.79, 192.23.17.78, 192.23.17.77, 192.23.250.235|svc.company.com|AMRSHARED
+3657|BG6VW1065|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VW1065|192.200.124.253, fe80::758f:5971:62c4:a88d, 192.214.96.13, 192.214.96.12, fe80::a4de:4f86:efa3:bed8, 2404:3d00:40a:b51::13, 2404:3d00:40a:b51::12|svc.company.com|INDSHARED
+3837|VRTVA1492|||||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1492|192.23.33.77, 192.23.252.153|svc.company.com|AMRSHARED
+3900|CTCDS3729|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCDS3729|192.192.129.59, fe80::59e1:e9f2:b54c:448c, 192.23.249.66, fe80::90b1:5e56:ac34:709f|svc.company.com|AMRSHARED
+4047|VRTVW2446|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW2446|192.23.67.225, 192.23.67.224, 192.23.253.57|svc.company.com|AMRSHARED
+4090|STRDS6104|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRDS6104|192.67.20.24, 192.168.197.24|svc.company.com|AMRSHARED2
+4104|CTCVW6515|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW6515|192.23.65.133, 192.23.65.84, 192.23.65.79, 192.23.65.77, fe80::60e8:6cf2:c15f:b44, 192.23.248.191, fe80::d876:2bce:fc02:1151, 192.23.66.183, 192.23.66.96, 192.23.66.94, fe80::f8d4:3fbc:5c82:14fb|svc.company.com|AMRSHARED
+4111|BG6VW1053|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VW1053|192.214.96.7, 192.214.96.5, fe80::989:fa63:d096:bbd1, 2404:3d00:40a:b51::7, 2404:3d00:40a:b51::5, 192.200.124.159, fe80::e9a3:deaa:9071:3ed7|svc.company.com|INDSHARED
+4228|VRTVA4282|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4282|192.200.106.111, fe80::b964:db45:1d6:323b, 2404:3d00:40a:492::111|svc.company.com|INDSHARED
+4241|CTCVD6302|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD6302|192.23.17.80, 192.23.250.236|svc.company.com|AMRSHARED
+4246|CTCVD5705|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1||||AMRSHARED
+4296|VRTVW1456|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1456|192.23.67.152, 192.23.67.151, 192.23.252.178|svc.company.com|AMRSHARED
+4332|STRVA6137|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVA6137|192.168.209.93, 192.67.37.156, 192.67.37.153|svc.company.com|AMRSHARED2
+4338|STRWS6106|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS6106|192.168.217.26, 192.67.17.126, 192.67.17.93, 192.67.17.92, 192.67.17.26|svc.company.com|AMRSHARED2
+4389|POFDS3734|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|POFDS3734|192.213.7.54, fe80::e8ae:ada0:f922:dcfc, 192.205.32.36, fe80::7039:7bc6:4bc0:c6bb|svc.company.com|APASHARED
+4405|CTCVD6511|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD6511|192.23.49.77, 192.23.248.219|svc.company.com|AMRSHARED
+4464|VRTVW1662|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1662|192.23.24.110, 192.23.24.102, 192.23.24.101, 192.23.252.120|svc.company.com|AMRSHARED
+4478|VRTVW1672|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1672|192.23.24.179, 192.23.24.106, 192.23.24.105, 192.23.252.129|svc.company.com|AMRSHARED
+4510|VRTVA2580|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA2580|192.23.49.124, 192.23.253.142|svc.company.com|AMRSHARED
+4521|VRTVD2448|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD2448|192.23.253.56, 192.23.49.163|svc.company.com|AMRSHARED
+4552|VRTVD3942|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD3942|192.200.125.149, fe80::f8be:8e22:313a:32bd, 192.200.98.220, fe80::84ab:a809:4c9e:cd6b, 2404:3d00:40a:292::220|svc.company.com|INDSHARED
+4677|VRTVW4167|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1||||INDSHARED
+4766|VRTVW1658|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1658|192.213.7.52, fe80::892a:81cd:c8c3:518d, 192.213.160.28, 192.213.160.27, fe80::65c2:fa72:7349:99e6|svc.company.com|APASHARED
+4784|STRWS6107|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS6107|192.67.17.127, 192.67.17.27, 192.168.217.27|svc.company.com|AMRSHARED2
+4788|CTCVW6302|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW6302|192.23.24.27, 192.23.24.26, 192.23.250.237|svc.company.com|AMRSHARED
+4801|BG6VA1017|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VA1017|192.200.124.113, fe80::442a:8e79:dd3b:580b, 192.200.98.120, 192.200.98.119, 192.200.98.113, fe80::9107:5ea2:f77a:85d9, 2404:3d00:40a:292::120, 2404:3d00:40a:292::119, 2404:3d00:40a:292::113|svc.company.com|INDSHARED
+4803|CTCVW6531|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW6531|192.23.66.166, 192.23.66.165, fe80::1dd2:57e8:88b5:d131, 192.23.251.45, fe80::3d0c:f6a4:153f:32e6|svc.company.com|AMRSHARED
+4886|VRTVA1460|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1460|192.23.33.82, 192.23.252.156|svc.company.com|AMRSHARED
+4957|BG6RS1102|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS1102|192.200.101.15, 192.200.101.18, 192.200.101.28, 192.200.124.173|svc.company.com|INDSHARED
+4961|STRWS6105|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS6105|192.67.17.125, 192.67.17.91, 192.67.17.90, 192.67.17.25, 192.168.217.25|svc.company.com|AMRSHARED2
+4968|STRDS6105|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRDS6105|192.67.20.25, 192.168.197.25|svc.company.com|AMRSHARED2
+4998|VRTVA1494|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1494|192.23.33.78, 192.23.252.154|svc.company.com|AMRSHARED
+5037|VRTVW4170|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW4170|169.254.85.32, fe80::b0c5:113d:b589:5520, 192.214.100.11, 192.214.100.10, fe80::1492:b7a6:d52f:3e37, 2404:3d00:40a:c51::11, 2404:3d00:40a:c51::10|svc.company.com|INDSHARED
+5190|BG6RS1201|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS1201|192.200.102.33, 192.200.102.45, 192.200.102.38, 192.200.102.39, 192.200.102.40, 192.200.102.41, 192.200.124.171|svc.company.com|INDSHARED
+5233|VRTVA4166|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4166|192.200.125.158, fe80::8d53:9830:b570:9de7, 192.200.98.241, fe80::414c:3b28:7050:d5a6, 2404:3d00:40a:292::241|svc.company.com|INDSHARED
+5290|VRTVA1468|||||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1468|192.23.33.81, 192.23.252.159|svc.company.com|AMRSHARED
+5370|STRWS6108|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRWS6108|192.168.217.28, 192.67.17.128, 192.67.17.28|svc.company.com|AMRSHARED2
+5399|BG6DS1114|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6DS1114|192.200.100.23, fe80::9888:ce54:f560:525e, 2404:3d00:40a:1d4::23, 192.200.124.62, fe80::6d31:3053:846e:7fc9|svc.company.com|INDSHARED
+5456|VRTVA1464|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1464|192.23.33.80, 192.23.252.158|svc.company.com|AMRSHARED
+5584|VRTVA1461|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA1461|192.23.33.79, 192.23.252.157|svc.company.com|AMRSHARED
+5585|VRTVA1461|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC||VRTVA1461|192.23.33.79, 192.23.252.157|svc.company.com|AMRSHARED
+5615|BG6RS1101|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|X86-based PC|1|BG6RS1101|192.200.101.14, 192.200.101.17, 192.200.101.27, 192.200.124.170|svc.company.com|INDSHARED
+5642|VRTVW1458|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW1458|192.23.67.154, 192.23.67.153, 192.23.252.179|svc.company.com|AMRSHARED
+5701|STRVA6138|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVA6138|192.67.37.154, 192.168.209.94|svc.company.com|AMRSHARED2
+5731|VRTVD3940|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD3940|169.254.97.173, fe80::1485:2137:1aa0:61ad, 192.200.100.174, fe80::3c60:b8af:4956:2196, 2404:3d00:40a:1d4::174|svc.company.com|INDSHARED
+5827|STRVD6117|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|STRVD6117|192.168.209.95, 192.67.37.155|svc.company.com|AMRSHARED2
+5940|CTCVD6705|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVD6705|192.23.49.183|svc.company.com|AMRSHARED
+5988|CTCVW6303|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW6303|192.23.24.39, 192.23.24.38, 192.23.251.67|svc.company.com|AMRSHARED
+6135|BG6VD1014|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|BG6VD1014|192.200.124.114, fe80::64f2:4795:1aa0:52d8, 192.200.98.114, fe80::75:e8c6:d1b0:9d12, 2404:3d00:40a:292::114|svc.company.com|INDSHARED
+6147|CTCVW6511|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW6511|192.23.65.132, 192.23.65.83, 192.23.65.78, 192.23.65.76, fe80::e5ff:7a53:33a1:282f, 192.23.248.190, fe80::f12e:14ac:6a2d:efe0, 192.23.66.182, 192.23.66.95, 192.23.66.93|svc.company.com|AMRSHARED
+6194|CTCVW6575|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|CTCVW6575|192.23.67.25, 192.23.67.24, 192.23.251.163|svc.company.com|AMRSHARED
+7446|VRTVD5073|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD5073|192.23.21.22, 192.23.255.143|svc.company.com|AMRSHARED
+7452|VRTVD4953|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD4953|192.23.147.92, 192.23.255.133|svc.company.com|AMRSHARED
+7455|VRTVW5085|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW5085|192.23.255.144, 192.23.24.173, 192.23.24.170|svc.company.com|AMRSHARED
+7467|VRTVD5022|Staging|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD5022|192.23.255.132, 192.23.147.54|svc.company.com|AMRSHARED
+7474|VRTVW5028|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW5028|192.23.28.195, 192.23.28.193, 192.23.255.113|svc.company.com|AMRSHARED
+7493|VRTVA4990|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4990|192.23.255.115, 192.23.21.25|svc.company.com|AMRSHARED
+7509|VRTVD5083|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD5083|192.23.21.23, 192.23.255.148|svc.company.com|AMRSHARED
+7515|VRTVW5048|Staging|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW5048|192.23.255.120, 192.23.28.196, 192.23.28.194|svc.company.com|AMRSHARED
+7517|VRTVW5088|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW5088|192.23.24.175, 192.23.24.172, 192.23.255.146|svc.company.com|AMRSHARED
+7542|VRTVW5087|Production|Web|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVW5087|192.23.24.174, 192.23.24.171, 192.23.255.145|svc.company.com|AMRSHARED
+7567|VRTVA4992|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4992|192.23.21.27, fe80::34f4:8260:854f:9d2, 192.23.255.117|svc.company.com|AMRSHARED
+7592|VRTVA4986|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4986|192.23.255.110, 192.23.28.197, 192.23.28.192|svc.company.com|AMRSHARED
+7596|VRTVA4963|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4963|192.23.18.171, 192.23.255.107|svc.company.com|AMRSHARED
+7605|VRTVD5072|Production|Database|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVD5072|192.23.49.227, fe80::24ca:26dc:4f10:f507, 192.23.255.142|svc.company.com|AMRSHARED
+7632|VRTVA4962|Staging|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4962|192.23.255.106, 192.23.18.170|svc.company.com|AMRSHARED
+7634|VRTVA4989|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4989|192.23.255.114, 192.23.21.24|svc.company.com|AMRSHARED
+8022|VRTVA4991|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA4991|192.23.21.26, 192.23.255.116|svc.company.com|AMRSHARED
+10299|VRTVA5636|Production|Application|Operational||VMware Virtual Platform|VMware, Inc.|x64-based PC|1|VRTVA5636|192.23.255.231, 192.23.70.113, 192.23.70.112|svc.company.com|AMRSHARED
